@@ -1,0 +1,25 @@
+name,latitude,longitude,rating,rating_count,address
+大埔鐵板燒北港店,23.5777074,120.298044,4.8,1739,"No. 227號, Huasheng Rd, Beigang Township, Yunlin County, Taiwan 651"
+造里居酒屋｜炎鹽串燒｜,23.5730368,120.2967822,4.7,153,"651, Taiwan, Yunlin County, Beigang Township, Datong Rd, 351號1樓"
+伊豆屋日式平價料理餐廳,23.58027,120.2985623,4.7,1709,"651, No. 71號公園路279巷北港鎮雲林縣 Taiwan 651"
+北港橋頭肉羹,23.5664868,120.3022379,4.5,364,"No. 38-1號, Yimin Rd, Beigang Township, Yunlin County, Taiwan 651"
+味味香便當店自助餐，雲林必吃美食,23.5721269,120.2459861,4.5,129,"652, Taiwan, Yunlin County, Shuilin Township, Shuilin Rd, 6-10號"
+家田餐館,23.4982808,120.3652836,4.4,232,"No. 65號, Matai Rd, Taibao City, Chiayi County, Taiwan 61255"
+店小二客家菜料理??(每週二三公休),23.5763436,120.2945219,4.4,171,"651, Taiwan, Yunlin County, Beigang Township, Wenren Rd, 651號346 號 No. 346文仁路"
+元木同手作料理 北港工業館/元木同愛燒肉,23.5896728,120.3093963,4.4,1186,"No. 136號, Xinde Rd, Beigang Township, Yunlin County, Taiwan 65152"
+蔦松客棧,23.5196482,120.2308515,4.3,169,"No. 8號, Niaosong Rd, Shuilin Township, Yunlin County, Taiwan 652"
+老受鴨肉飯,23.5664933,120.304457,3.7,1964,"No. 104號, Zhongshan Rd, Beigang Township, Yunlin County, Taiwan 651"
+福勝亭 北港店,23.5700625,120.2993886,3.6,165,"No. 101號, Huanan Rd, Beigang Township, Yunlin County, Taiwan 651"
+紅磚道,23.5744978,120.3026889,3.5,106,"No. 20, Gongyuan Rd, Beigang Township, Yunlin County, Taiwan 651"
+A-bao house 阿寶晨食館北港店,23.5747435,120.2999004,3.3,225,"No. 38號, Minxiang Rd, Beigang Township, Yunlin County, Taiwan 651"
+,,,,,
+"[0, '1.1 km', '2.9 km', '2.0 km', '6.4 km', '13.5 km', '1.1 km', '1.8 km', '12.6 km', '1.8 km']",,,,,
+"['1.1 km', 0, '3.2 km', '1.5 km', '6.1 km', '13.0 km', '0.7 km', '2.9 km', '12.2 km', '1.4 km']",,,,,
+"['2.9 km', '3.2 km', 0, '4.5 km', '7.1 km', '16.9 km', '3.2 km', '2.8 km', '14.8 km', '4.3 km']",,,,,
+"['1.7 km', '1.2 km', '4.2 km', 0, '6.0 km', '12.6 km', '1.8 km', '3.5 km', '12.2 km', '0.3 km']",,,,,
+"['6.5 km', '6.1 km', '7.1 km', '6.0 km', 0, '17.5 km', '5.4 km', '8.3 km', '6.7 km', '6.3 km']",,,,,
+"['13.6 km', '13.1 km', '16.0 km', '12.5 km', '17.5 km', 0, '13.3 km', '17.3 km', '19.4 km', '12.2 km']",,,,,
+"['1.1 km', '0.7 km', '3.2 km', '1.8 km', '5.4 km', '13.7 km', 0, '2.9 km', '11.5 km', '2.1 km']",,,,,
+"['1.8 km', '2.9 km', '2.8 km', '3.8 km', '8.2 km', '17.3 km', '2.9 km', 0, '14.4 km', '3.2 km']",,,,,
+"['12.6 km', '12.2 km', '14.7 km', '12.1 km', '6.6 km', '19.4 km', '11.6 km', '14.4 km', 0, '12.4 km']",,,,,
+"['2.0 km', '1.5 km', '4.4 km', '0.6 km', '6.3 km', '12.2 km', '2.1 km', '3.1 km', '12.4 km', 0]",,,,,

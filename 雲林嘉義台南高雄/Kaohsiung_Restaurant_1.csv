@@ -1,0 +1,23 @@
+name,latitude,longitude,rating,rating_count,address
+都瓦哩印度廚房酒館旗艦店 Doon Valley Indian Restaurant and Bar Qinghai Road,22.6516083,120.2872098,5,677,"青海路266號, No, No. 266青海路鼓山區高雄市 Taiwan 804"
+Madker Live House & Restaurant,22.623552,120.280327,4.8,865,"No. 43號, Qixian 3rd Rd, Yancheng District, Kaohsiung City, Taiwan 803"
+ZhanLu,22.6112875,120.303525,4.7,754,"806, Taiwan, Kaohsiung City, Cianjhen District, Singuang Rd, 33號2樓"
+夏夫小農 Shafarm vegetarian restaurant,22.6703981,120.292597,4.7,401,"No. 101號, Yuxing Rd, Gushan District, Kaohsiung City, Taiwan 804"
+Pooja's Indian Restaurant,22.6234817,120.2808593,4.6,494,"No. 72號, Qixian 3rd Rd, Yancheng District, Kaohsiung City, Taiwan 803"
+獅子山創作餐廳Lion Rock Restaurant,22.7284562,120.2903893,4.6,419,"811, Taiwan, Kaohsiung City, Nanzih District, Daxue E Rd, 206號2樓"
+GIRAR bar & restaurant,22.6142277,120.3036425,4.6,443,"No. 2-3號, Renyi St, Lingya District, Kaohsiung City, Taiwan 80245"
+Don Burrito Mexican Restaurant 登布利多墨西哥餐廳,22.611698,120.299323,4.5,894,"No. 36號, Lane 140, Xinguang Rd, Lingya District, Kaohsiung City, Taiwan 802"
+Bosi Te Restaurant,22.6223804,120.3176536,4.5,613,"No. 121-1號, Guangzhou 1st St, Lingya District, Kaohsiung City, Taiwan 802"
+THOMAS CHIEN RESTAURANT,22.6045609,120.3009108,4.5,992,"No. 11號, Chenggong 2nd Rd, Cianjhen District, Kaohsiung City, Taiwan 806"
+,,,,,
+,,,,,
+"[0, '3.9 km', '6.5 km', '3.8 km', '3.9 km', '11.1 km', '6.3 km', '6.4 km', '7.9 km', '7.2 km']",,,,,
+"['3.9 km', 0, '3.5 km', '6.1 km', '16 m', '14.5 km', '3.3 km', '2.9 km', '4.8 km', '3.6 km']",,,,,
+"['7.3 km', '3.9 km', 0, '7.8 km', '3.8 km', '15.2 km', '0.6 km', '1.0 km', '2.6 km', '1.5 km']",,,,,
+"['3.8 km', '6.1 km', '7.4 km', 0, '6.0 km', '7.7 km', '7.2 km', '7.5 km', '8.8 km', '8.4 km']",,,,,
+"['3.9 km', '16 m', '3.4 km', '6.0 km', 0, '14.5 km', '3.2 km', '2.9 km', '4.8 km', '3.6 km']",,,,,
+"['10.0 km', '13.4 km', '14.8 km', '7.8 km', '13.4 km', 0, '14.6 km', '14.9 km', '18.7 km', '25.3 km']",,,,,
+"['6.9 km', '3.4 km', '0.5 km', '7.3 km', '3.4 km', '14.8 km', 0, '0.6 km', '2.2 km', '1.5 km']",,,,,
+"['6.4 km', '2.9 km', '0.8 km', '7.5 km', '2.9 km', '14.9 km', '0.6 km', 0, '2.9 km', '1.0 km']",,,,,
+"['8.2 km', '4.7 km', '2.6 km', '8.7 km', '4.7 km', '16.7 km', '2.0 km', '2.7 km', 0, '3.5 km']",,,,,
+"['7.2 km', '3.6 km', '1.1 km', '8.4 km', '3.6 km', '15.8 km', '1.5 km', '1.0 km', '3.7 km', 0]",,,,,

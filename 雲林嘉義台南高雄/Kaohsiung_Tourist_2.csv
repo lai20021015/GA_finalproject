@@ -1,0 +1,24 @@
+name,latitude,longitude,rating,rating_count,address
+愛河灣水樂園(高雄港登1碼頭),22.6192698,120.2910618,4.9,335,"No. 109號, Haibian Rd, Lingya District, Kaohsiung City, Taiwan 802"
+Sizihwan Sunset Observation Breakwater,22.6226511,120.2619437,4.8,175,"804 Gushan District, Kaohsiung City, Taiwan 804"
+Glory Pier,22.6166852,120.2924348,4.6,9279,"No. 31號, Haibian Rd, Lingya District, Kaohsiung City, Taiwan 802"
+見城之道,22.6777489,120.2923671,4.6,149,"813, Taiwan, Kaohsiung City, Zuoying District, 龜山巷69號"
+Yazuo Pavilion,22.6528099,120.2598603,4.6,1471,"Gushan District, Kaohsiung City, Taiwan 804"
+斜光橋,22.6367906,120.284887,4.6,141,"807, Taiwan, Kaohsiung City, Sanmin District, 同盟三路"
+Lotus Pond,22.6833323,120.2966989,4.4,2251,"Lotus Pond, Zuoying District, Kaohsiung City, Taiwan 813"
+Shoushan LOVE Lookout,22.6254253,120.2741481,4.5,7550,"No. 30號, Zhongyi Rd, Gushan District, Kaohsiung City, Taiwan 804"
+Aozidi Forest Park,22.6592117,120.2992508,4.5,10439,"804, Taiwan, Kaohsiung City, Gushan District, Shennong Rd, 南屏路"
+Kaohsiung Lighthouse,22.6154591,120.2649589,4.5,3596,"80541, Taiwan, Kaohsiung City, Qijin District, 旗下巷34號"
+,,,,,
+,,,,,
+,,,,,
+"[0, '5.4 km', '0.8 km', '8.9 km', '5.4 km', '6.3 km', '8.4 km', '3.7 km', '5.6 km', '16.3 km']",,,,,
+"['4.9 km', 0, '5.8 km', '4.9 km', '1 m', '6.2 km', '5.0 km', '4.4 km', '4.4 km', '31.8 km']",,,,,
+"['0.8 km', '5.4 km', 0, '9.1 km', '5.4 km', '6.5 km', '8.7 km', '3.7 km', '5.8 km', '16.0 km']",,,,,
+"['8.8 km', '4.9 km', '9.9 km', 0, '4.9 km', '12.0 km', '2.1 km', '8.8 km', '4.7 km', '28.4 km']",,,,,
+"['4.9 km', '1 m', '5.8 km', '4.9 km', 0, '6.2 km', '5.0 km', '4.4 km', '4.4 km', '31.8 km']",,,,,
+"['6.6 km', '6.3 km', '7.6 km', '7.2 km', '6.3 km', 0, '6.3 km', '7.9 km', '3.4 km', '21.9 km']",,,,,
+"['8.2 km', '5.0 km', '9.4 km', '2.0 km', '5.0 km', '11.3 km', 0, '8.5 km', '3.3 km', '27.7 km']",,,,,
+"['3.3 km', '4.7 km', '4.1 km', '9.1 km', '4.7 km', '9.2 km', '9.2 km', 0, '6.9 km', '19.6 km']",,,,,
+"['5.5 km', '3.4 km', '6.7 km', '4.1 km', '3.4 km', '3.8 km', '3.4 km', '6.5 km', 0, '28.3 km']",,,,,
+"['17.0 km', '32.0 km', '16.5 km', '28.2 km', '32.0 km', '21.5 km', '27.4 km', '19.9 km', '28.6 km', 0]",,,,,

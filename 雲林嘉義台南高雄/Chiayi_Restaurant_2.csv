@@ -1,0 +1,22 @@
+name,latitude,longitude,rating,rating_count,address
+Qiang Qiang Gun Breakfast Restaurant,23.4770167,120.4444074,4.8,114,"No. 150號, Xinrong Rd, West District, Chiayi City, Taiwan 600"
+Chefs Thai (Thai Food),23.4741288,120.4396932,4.7,603,"600002, Taiwan, Chiayi City, West District, 康樂街310號"
+東里流芳 巷子料理 （預約制，不接受當日）Sean's Restaurant,23.4867359,120.4653411,4.7,150,"No. 11號, Lane 80, Yuanfu St, East District, Chiayi City, Taiwan 600"
+Hongmaozi Breakfast Restaurant,23.4752483,120.4419054,4.6,208,"600No. 727號, Minzu Rd, West District, Chiayi City, Taiwan 600"
+Chiayi Food-Happy Restaurant,23.4846131,120.4546899,4.5,353,"No. 177號, Gonghe Rd, East District, Chiayi City, Taiwan 600"
+MEGA Kids Restaurant,23.4780731,120.4423217,4.4,189,"600, Taiwan, Chiayi City, West District, Renai Rd, 560號1樓"
+Hand On The Pizza,23.4800731,120.447254,4.4,1558,"No. 129-1, Zhongyi St, West District, Chiayi City, Taiwan 600"
+藤川味之屋,23.4830493,120.453165,4.4,356,"No. 240號, Minquan Rd, East District, Chiayi City, Taiwan 600"
+Wu Si Da Turkish Restaurant,23.4815472,120.4846325,4.3,1449,"No. 25號, Lane 858, Section 1, Daya Rd, East District, Chiayi City, Taiwan 600"
+Tao Cheng Guwei Restaurant,23.483004,120.4355282,4.2,578,"No. 121, Youxiao Rd, West District, Chiayi City, Taiwan 600"
+,,,,,
+"[0, '2.8 km', '3.4 km', '0.4 km', '1.8 km', '0.4 km', '0.7 km', '1.5 km', '4.5 km', '2.1 km']",,,,,
+"['3.1 km', 0, '5.5 km', '2.6 km', '4.4 km', '3.0 km', '3.5 km', '3.8 km', '7.2 km', '2.0 km']",,,,,
+"['3.4 km', '5.7 km', 0, '3.9 km', '1.6 km', '3.4 km', '2.7 km', '1.8 km', '2.8 km', '4.2 km']",,,,,
+"['0.4 km', '2.3 km', '3.7 km', 0, '2.1 km', '0.3 km', '1.1 km', '2.0 km', '4.6 km', '1.7 km']",,,,,
+"['1.9 km', '4.3 km', '1.6 km', '2.2 km', 0, '1.9 km', '1.2 km', '0.3 km', '3.5 km', '2.5 km']",,,,,
+"['0.5 km', '2.6 km', '3.3 km', '0.3 km', '1.7 km', 0, '0.8 km', '1.4 km', '4.9 km', '2.0 km']",,,,,
+"['0.8 km', '3.3 km', '2.4 km', '1.2 km', '1.2 km', '1.0 km', 0, '0.8 km', '4.4 km', '1.8 km']",,,,,
+"['1.5 km', '4.3 km', '1.6 km', '2.0 km', '0.3 km', '1.8 km', '0.9 km', 0, '3.5 km', '2.4 km']",,,,,
+"['4.5 km', '6.9 km', '2.8 km', '4.6 km', '3.5 km', '4.9 km', '4.4 km', '3.6 km', 0, '6.4 km']",,,,,
+"['2.2 km', '1.5 km', '4.2 km', '1.7 km', '2.6 km', '2.1 km', '1.9 km', '2.2 km', '5.8 km', 0]",,,,,

@@ -1,0 +1,22 @@
+name,latitude,longitude,rating,rating_count,address
+希臘轉角永康中正店,23.0306237,120.2533982,4.7,1192,"No. 103號, Zhongzheng Rd, Yongkang District, Tainan City, Taiwan 710"
+Ying Bin Xiuxian Restaurant,23.0955531,120.2074032,4.7,325,"745, Taiwan, Tainan City, Anding District, 海寮5之36號"
+Hao Ye Yue Shi Chinese Restaurant,23.044176,120.2429802,4.7,961,"710, Taiwan, Tainan City, Yongkang District, Yong'an 1st St, 99號2樓"
+Gucang Restaurant,23.1389463,120.2160529,4.5,2585,"723, Taiwan, Tainan City, Xigang District, 1號"
+61線活海產,23.1028369,120.0881878,4.4,975,"724, Taiwan, Tainan City, Qigu District, 南38鄉道"
+(Gui Tian Hotel) capitalists Japanese garden restaurant,23.043904,120.243009,4.4,829,"No. 99號, Yong'an 1st St, Yongkang District, Tainan City, Taiwan 710"
+Shu Gu Huaijiu Restaurant,23.1040026,120.2617448,4.3,960,"No. 8號, Zhongxin Rd, Xinshi District, Tainan City, Taiwan 744"
+田媽媽北門嶼風味餐廳,23.2687352,120.123766,4.1,387,"727, Taiwan, Tainan City, Beimen District, 3號之5"
+月津懷舊食堂Yuejin Nostalgia Restaurant,23.3191961,120.2677334,3.9,131,"No. 63號, Zhongzheng Rd, Yanshui District, Tainan City, Taiwan 737"
+Man Xiangyuan Beef Noodle Restaurant,23.0448506,120.1920418,3.9,322,"No. 851號, Section 1, Anzhong Rd, Annan District, Tainan City, Taiwan 709"
+,,,,,
+"[0, '10.9 km', '2.2 km', '15.3 km', '27.1 km', '2.2 km', '13.7 km', '38.4 km', '36.8 km', '8.4 km']",,,,,
+"['10.2 km', 0, '9.4 km', '4.9 km', '16.6 km', '9.4 km', '5.9 km', '32.8 km', '31.1 km', '7.6 km']",,,,,
+"['2.2 km', '10.8 km', 0, '15.2 km', '23.4 km', '6 m', '8.2 km', '38.3 km', '36.6 km', '7.8 km']",,,,,
+"['14.9 km', '4.7 km', '14.1 km', 0, '11.7 km', '14.1 km', '10.0 km', '30.7 km', '29.1 km', '10.7 km']",,,,,
+"['26.3 km', '16.1 km', '25.6 km', '11.5 km', 0, '25.6 km', '21.5 km', '23.5 km', '39.9 km', '17.9 km']",,,,,
+"['2.2 km', '10.8 km', '6 m', '15.2 km', '23.4 km', 0, '8.2 km', '38.3 km', '36.6 km', '7.8 km']",,,,,
+"['13.6 km', '5.9 km', '8.4 km', '9.8 km', '21.6 km', '8.4 km', 0, '31.4 km', '29.8 km', '12.9 km']",,,,,
+"['37.8 km', '31.9 km', '37.1 km', '24.8 km', '23.4 km', '37.1 km', '31.3 km', 0, '17.8 km', '42.5 km']",,,,,
+"['36.1 km', '30.2 km', '35.3 km', '28.3 km', '39.8 km', '35.4 km', '29.5 km', '17.7 km', 0, '40.7 km']",,,,,
+"['9.4 km', '7.6 km', '7.7 km', '11.0 km', '17.9 km', '7.7 km', '14.4 km', '43.9 km', '42.3 km', 0]",,,,,

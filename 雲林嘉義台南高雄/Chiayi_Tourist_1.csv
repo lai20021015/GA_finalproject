@@ -1,0 +1,22 @@
+name,latitude,longitude,rating,rating_count,address
+Zhishanhu,23.4720247,120.2936383,4.5,150,"Zhimei Bridge, Taibao City, Chiayi County, Taiwan 612"
+1920美漾森林,23.3460382,120.1290175,4.5,209,"625, Taiwan, Chiayi County, Budai Township, Unnamed Road"
+白水湖壽島,23.4009833,120.1514525,4.4,2456,"Dongshi Township, Chiayi County, Taiwan 614"
+蒜鰲自行車道 | 阿勃勒花道,23.49983,120.2766577,4.4,228,"615, Taiwan, Chiayi County, Liujiao Township, 嘉53鄉道"
+布袋小確幸海灘,23.3846214,120.1510753,4.3,842,"625, Taiwan, 嘉義縣布袋鎮岑海里"
+朴子溪自行車道,23.4960015,120.2915595,4.2,214,"Puzi City, Chiayi County, Taiwan 615"
+Dongshi Tropic of Cancer Marker,23.4482658,120.1356592,4.2,360,"Dongshi Township, Chiayi County, Taiwan 614"
+Haomeiyucun Park,23.3391018,120.140419,4.1,764,"625, Taiwan, 嘉義縣布袋鎮好美里"
+台灣原創插畫彩繪村,23.4162728,120.2405381,4.1,115,"613, Taiwan, Chiayi County, Puzi City, 170縣道91號"
+High-Heel Church,23.3777863,120.1487636,4,8181,"No. 5號, Xinxi Rd, Budai Township, Chiayi County, Taiwan 625"
+,,,,,
+"[0, '24.3 km', '16.3 km', '8.4 km', '24.3 km', '6.8 km', '16.3 km', '24.3 km', '6.8 km', '23.3 km']",,,,,
+"['24.5 km', 0, '14.5 km', '26.4 km', '1 m', '18.9 km', '14.5 km', '1 m', '18.9 km', '4.3 km']",,,,,
+"['16.7 km', '14.6 km', 0, '15.7 km', '14.6 km', '11.1 km', '1 m', '14.6 km', '11.1 km', '12.2 km']",,,,,
+"['7.0 km', '26.5 km', '15.7 km', 0, '26.5 km', '13.2 km', '15.7 km', '26.5 km', '13.2 km', '29.7 km']",,,,,
+"['24.5 km', '1 m', '14.5 km', '26.4 km', 0, '18.9 km', '14.5 km', '1 m', '18.9 km', '4.3 km']",,,,,
+"['6.3 km', '19.1 km', '11.1 km', '13.8 km', '19.1 km', 0, '11.1 km', '19.1 km', '1 m', '18.2 km']",,,,,
+"['16.7 km', '14.6 km', '1 m', '15.7 km', '14.6 km', '11.1 km', 0, '14.6 km', '11.1 km', '12.2 km']",,,,,
+"['24.5 km', '1 m', '14.5 km', '26.4 km', '1 m', '18.9 km', '14.5 km', 0, '18.9 km', '4.3 km']",,,,,
+"['6.3 km', '19.1 km', '11.1 km', '13.8 km', '19.1 km', '1 m', '11.1 km', '19.1 km', 0, '18.2 km']",,,,,
+"['23.4 km', '5.7 km', '12.2 km', '32.5 km', '5.7 km', '17.9 km', '12.2 km', '5.7 km', '17.9 km', 0]",,,,,

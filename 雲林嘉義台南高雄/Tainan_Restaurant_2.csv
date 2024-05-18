@@ -1,0 +1,38 @@
+name,latitude,longitude,rating,rating_count,address
+Vaah Ji Indian restaurant,22.9981366,120.1975006,4.9,116,"No. 69號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700"
+Lai Yi Wan Beef Noodle Restaurant,22.9995622,120.2055256,4.8,186,"No. 34號, Section 3, Zhongyi Rd, North District, Tainan City, Taiwan 704"
+Nest _de_O_Bar,23.0008431,120.1967406,4.7,473,"No. 34號, Lane 93, Zhongxiao St, West Central District, Tainan City, Taiwan 700"
+Chuanben Jia Izakaya Restaurant,23.0029061,120.162491,4.7,149,"No. 124, Anbei Rd, Anping District, Tainan City, Taiwan 708"
+Dano's wine pasta,23.0006782,120.1948622,4.6,183,"No. 3號, Lane 108, Xinyi St, West Central District, Tainan City, Taiwan 700"
+夏慕尼新香榭?板燒台南公園南店,23.0027218,120.2017059,4.6,3671,"No. 379號, Gongyuan S Rd, North District, Tainan City, Taiwan 704"
+Marco Pizza Jacob's store,23.0141396,120.2093634,4.6,290,"No. 311之1, Section 4, Ximen Road, North District, Tainan City, Taiwan 704"
+小船屋平價海鮮熱炒,23.0014122,120.2076907,4.5,330,"No. 88號, Gongyuan S Rd, North District, Tainan City, Taiwan 704"
+赤崁璽樓蔬食,22.9980366,120.2010354,4.5,2129,"No. 372巷10號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700"
+Les OMBRES d'Ambre Restaurant,23.0048491,120.1818933,4.4,672,"No. 203號, Section 5, Hewei Rd, West Central District, Tainan City, Taiwan 700"
+Sky Elephant Thai Restaurant,22.999332,120.1834828,4.4,1500,"No. 3, Dingmei 1st St, West Central District, Tainan City, Taiwan 700"
+閤苑坊串燒酒場,23.0008453,120.1981903,4.4,150,"No. 426號, Chenggong Rd, North District, Tainan City, Taiwan 704"
+Xian Wei Xuan Restaurant,23.0106468,120.1971516,4.4,231,"No. 262號, Section 3, Hewei Rd, North District, Tainan City, Taiwan 70451"
+A-Cai Beef Soup,22.9994764,120.1614754,4.4,7696,"No. 5號, Gubao St, Anping District, Tainan City, Taiwan 708"
+福爾摩沙遊艇酒店－威尼斯餐廳,22.9988193,120.154664,4.4,1893,"708, Taiwan, Tainan City, Anping District, Anping Rd, 988號1F"
+Sheng Ji Dianxin Dim Sum Restaurant,23.0040637,120.2047602,4.3,353,"No. 252號, Section 3, Ximen Rd, North District, Tainan City, Taiwan 704"
+一羽鯨吞 炭火燒鳥,23.00198,120.199101,4.3,244,"No. 47號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 70458"
+BD Teppanyaki-中西精緻鐵板燒|必吃鐵板燒|高級鐵板燒|中式餐廳|人氣鐵板燒|在地推薦美食,22.9988565,120.2004281,4.3,381,"No. 397號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700"
+Funkoo Bar - Mexican Cuisine & Bar,22.9979014,120.1978301,4.3,418,"No. 268號, Section 2, Hai'an Rd, West Central District, Tainan City, Taiwan 700"
+La Cupola 圓頂西餐廳,22.9990529,120.203536,4.2,1919,"704, Taiwan, Tainan City, North District, Chenggong Rd, 202號R樓"
+古家手作 Restaurant 鴨香飯 （北成總店）,23.0192518,120.2019656,4,400,"No. 428號, Beicheng Rd, North District, Tainan City, Taiwan 704"
+McDonald's Tainan Bei'an,23.0418593,120.2034877,4,2433,"No. 132號, Section 3, Beian Rd, Annan District, Tainan City, Taiwan 709"
+拿坡里披薩 安南店,23.030873,120.1904581,4,354,"No. 56號, Section 2, Haidian Rd, Annan District, Tainan City, Taiwan 709039"
+Man Xiangyuan Beef Noodle Restaurant,23.0448506,120.1920418,3.9,322,"No. 851號, Section 1, Anzhong Rd, Annan District, Tainan City, Taiwan 709"
+八方雲集台南忠孝店,23.000802,120.195943,3.6,213,"No. 49號, Lane 93, Zhongxiao St, West Central District, Tainan City, Taiwan 700"
+Chen oyster roll,23.0003688,120.1616719,3.4,2228,"No. 786號, Anping Rd, Anping District, Tainan City, Taiwan 708"
+,,,,,
+"[0, '1.1 km', '0.4 km', '3.9 km', '0.6 km', '0.8 km', '2.3 km', '1.7 km', '1.2 km', '3.0 km']",,,,,
+"['1.5 km', 0, '1.1 km', '5.2 km', '1.7 km', '0.8 km', '1.8 km', '0.6 km', '2.1 km', '3.4 km']",,,,,
+"['0.4 km', '1.1 km', 0, '4.0 km', '0.2 km', '0.8 km', '2.3 km', '1.7 km', '1.8 km', '2.2 km']",,,,,
+"['3.8 km', '4.8 km', '3.8 km', 0, '3.8 km', '4.3 km', '5.3 km', '5.4 km', '4.4 km', '2.2 km']",,,,,
+"['0.5 km', '1.4 km', '0.3 km', '3.8 km', 0, '1.0 km', '2.6 km', '1.9 km', '1.7 km', '2.9 km']",,,,,
+"['1.1 km', '0.9 km', '1.1 km', '4.9 km', '1.3 km', 0, '1.5 km', '1.1 km', '1.7 km', '3.1 km']",,,,,
+"['2.3 km', '2.4 km', '2.3 km', '5.4 km', '3.0 km', '1.7 km', 0, '1.8 km', '3.0 km', '3.3 km']",,,,,
+"['1.4 km', '0.6 km', '1.4 km', '5.1 km', '1.6 km', '0.7 km', '1.7 km', 0, '2.0 km', '3.3 km']",,,,,
+"['1.1 km', '1.6 km', '1.5 km', '4.4 km', '1.6 km', '1.9 km', '2.8 km', '2.2 km', 0, '3.4 km']",,,,,
+"['2.6 km', '3.0 km', '2.0 km', '2.2 km', '1.9 km', '2.5 km', '3.1 km', '4.4 km', '3.3 km', 0]",,,,,

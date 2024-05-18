@@ -1,0 +1,24 @@
+name,latitude,longitude,rating,rating_count,address
+虹泰水凝膠世界觀光工廠,22.9877317,120.2543096,4.8,6580,"No. 47號, Dali Rd, Rende District, Tainan City, Taiwan 717"
+Anping Tree House,23.0038453,120.1598012,4.5,5387,"No. 104, Gubao St, Anping District, Tainan City, Taiwan 708"
+Taiwan's door deer Germain,23.0370761,120.1214125,4.5,128,"709, Taiwan, Tainan City, Annan District, 709台灣台南市安南區媽祖宮一街顯宮一街"
+Yuguang Island,22.9809871,120.1558325,4.4,23612,"Yuguang Rd, Anping District, Tainan City, Taiwan 708"
+Sicao Lake,23.0193876,120.1374079,4.4,110,"Annan District, Tainan City, Taiwan 709"
+Barclay Memorial Park,22.9719929,120.2225874,4.4,6696,"701, Taiwan, 台南市東區崇明里"
+Big Fish's Blessing,22.9957536,120.1633655,4.3,6811,"708, Taiwan, Tainan City, Anping District, Anyi Bridge, Historic Harborside Park Park, 邊安億路旁"
+Sicao Green Tunnel,23.0196399,120.1361465,4.3,19610,"No. 360號, Dazhong Rd, Annan District, Tainan City, Taiwan 709"
+Chihkan Culture Park,22.9970041,120.2023948,4.3,479,"No. 212號, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700"
+Shennong Street,22.9975171,120.1964949,4.3,18104,"700, Taiwan, Tainan City, West Central District, 神農街58-1號"
+,,,,,
+,,,,,
+,,,,,
+"[0, '10.7 km', '26.4 km', '11.2 km', '26.4 km', '4.2 km', '11.2 km', '28.4 km', '6.0 km', '6.9 km']",,,,,
+"['11.5 km', 0, '10.3 km', '3.8 km', '10.3 km', '7.3 km', '1.5 km', '5.6 km', '4.6 km', '4.4 km']",,,,,
+"['25.7 km', '11.2 km', 0, '14.7 km', '1 m', '14.4 km', '12.5 km', '6.3 km', '11.7 km', '11.5 km']",,,,,
+"['11.2 km', '3.7 km', '13.6 km', 0, '13.6 km', '7.3 km', '2.3 km', '8.9 km', '6.6 km', '5.7 km']",,,,,
+"['25.7 km', '11.2 km', '1 m', '14.7 km', 0, '14.4 km', '12.5 km', '6.3 km', '11.7 km', '11.5 km']",,,,,
+"['4.5 km', '7.4 km', '13.5 km', '7.4 km', '13.5 km', 0, '7.4 km', '14.0 km', '3.1 km', '3.9 km']",,,,,
+"['11.6 km', '1.5 km', '11.4 km', '2.3 km', '11.4 km', '7.8 km', 0, '6.7 km', '4.8 km', '4.3 km']",,,,,
+"['27.7 km', '5.7 km', '5.4 km', '9.1 km', '5.4 km', '14.0 km', '6.9 km', 0, '11.3 km', '11.1 km']",,,,,
+"['6.0 km', '4.7 km', '10.5 km', '6.8 km', '10.5 km', '3.2 km', '4.8 km', '11.0 km', 0, '1.0 km']",,,,,
+"['6.8 km', '4.1 km', '10.2 km', '6.1 km', '10.2 km', '3.4 km', '4.0 km', '10.7 km', '0.9 km', 0]",,,,,

@@ -1,0 +1,22 @@
+name,latitude,longitude,rating,rating_count,address
+古早味肉煠,23.382225,120.1938248,4.5,1306,"625, Taiwan, Chiayi County, Budai Township, 江山里150號"
+朵拉拉的夢想花園（請先預約訂位）,23.4699823,120.2253278,4.5,300,"61453, Taiwan, Chiayi County, Dongshi Township, 船仔頭18-6號"
+Cipullo's 義式廚房（假期營業時間請關注粉絲頁）,23.45999,120.2859842,4.4,218,"No. 28號, Pudong 1st St, Puzi City, Chiayi County, Taiwan 613"
+初沐鰻魚專賣社（公休日請關注粉絲團）,23.4610534,120.286913,4.4,832,"613, Taiwan, Chiayi County, Puzi City, 嘉朴路西段79號"
+采荷居人文茶館,23.467301,120.249107,4.3,744,"613, Taiwan, Chiayi County, Puzi City, 安福里山通路24-13號"
+岩葉拉麵 朴子店 （公休時間請看fb粉專）,23.4613709,120.2378777,4.2,265,"No. 271號, Datong Rd, Puzi City, Chiayi County, Taiwan 613"
+McDonald's Chiayi Taibao,23.4596292,120.2959709,4.1,2643,"No. 18號, Section 1, Jiapu E Rd, Taibao City, Chiayi County, Taiwan 612"
+芬媽咪魔法廚房,23.4585317,120.2964128,4.1,408,"612, Taiwan, Chiayi County, Taibao City, 祥和一路東段16號"
+阿榮師客家小炒,23.4552375,120.2930597,4.1,217,"No. 32, Taibao 1st Rd, Taibao City, Chiayi County, Taiwan 612"
+McDonald's Puzi Wenhua,23.4622238,120.241477,3.9,1472,"No. 45號, Wenhua S Rd, Puzi City, Chiayi County, Taiwan 613"
+,,,,,
+"[0, '14.5 km', '23.6 km', '18.9 km', '18.9 km', '16.0 km', '23.3 km', '39.3 km', '22.8 km', '16.6 km']",,,,,
+"['14.6 km', 0, '15.8 km', '11.1 km', '11.1 km', '8.3 km', '15.5 km', '31.5 km', '15.0 km', '8.6 km']",,,,,
+"['23.5 km', '15.5 km', 0, '5.7 km', '5.7 km', '6.3 km', '1.2 km', '13.2 km', '1.3 km', '5.0 km']",,,,,
+"['19.1 km', '11.1 km', '5.2 km', 0, '1 m', '4.0 km', '6.8 km', '22.9 km', '6.3 km', '3.8 km']",,,,,
+"['19.1 km', '11.1 km', '5.2 km', '1 m', 0, '4.0 km', '6.8 km', '22.9 km', '6.3 km', '3.8 km']",,,,,
+"['16.0 km', '8.3 km', '6.3 km', '4.0 km', '4.0 km', 0, '8.3 km', '24.4 km', '7.8 km', '0.4 km']",,,,,
+"['23.4 km', '15.4 km', '1.5 km', '6.9 km', '6.9 km', '8.3 km', 0, '12.2 km', '1.1 km', '8.1 km']",,,,,
+"['38.1 km', '30.2 km', '12.9 km', '24.1 km', '24.1 km', '23.0 km', '11.8 km', 0, '19.0 km', '22.8 km']",,,,,
+"['22.6 km', '14.6 km', '1.3 km', '6.0 km', '6.0 km', '7.4 km', '0.8 km', '20.9 km', 0, '7.2 km']",,,,,
+"['17.7 km', '8.5 km', '5.0 km', '3.8 km', '3.8 km', '0.4 km', '8.1 km', '24.1 km', '7.6 km', 0]",,,,,

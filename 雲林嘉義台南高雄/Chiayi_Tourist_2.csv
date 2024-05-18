@@ -1,0 +1,22 @@
+name,latitude,longitude,rating,rating_count,address
+Jourdeness Castle Biotech Park,23.5843184,120.5070594,4.8,20973,"622, Taiwan, Chiayi County, Dalin Township, 大埔美園區三路15號"
+i-WOOD Village,23.5019804,120.4384804,4.6,9900,"No. 909-3號, Wenhua Rd, West District, Chiayi City, Taiwan 60029"
+Chiayi Park,23.4833299,120.4652307,4.4,14411,"600, Taiwan, Chiayi City, East District, 啟明路264號"
+Tai-Ping 36 Bends,23.5630821,120.5958235,4.4,2233,"603, Taiwan, Chiayi County, Meishan Township, 太平村"
+觀音瀑布,23.5070789,120.6211259,4.4,758,"Zhuqi Township, Chiayi County, Taiwan 604"
+Ume Tonya,23.586802,120.550871,4.4,8886,"No. 527號, Zhongshan Rd, Meishan Township, Chiayi County, Taiwan 603"
+Hinoki Village,23.4856377,120.454812,4.3,35993,"No. 370號, Gonghe Rd, East District, Chiayi City, Taiwan 600"
+Bihushanyi Station,23.569599,120.621923,4.3,639,"603, Taiwan, Chiayi County, Meishan Township, 碧湖村38-9號"
+Taiping Suspension Bridge Visitor Service Center,23.5595469,120.6001357,4.3,21264,"太平村下坑仔5號, Meishan Township, Chiayi County, Taiwan 60345"
+Rippling Moonlit Talk,23.465877,120.48071,4.2,1989,"600, Taiwan, Chiayi City, East District, 鹿寮里紅毛埤187-4號"
+,,,,,
+"[0, '16.5 km', '19.0 km', '58.2 km', '33.4 km', '10.3 km', '14.4 km', '58.2 km', None, '19.0 km']",,,,,
+"['13.0 km', 0, '5.3 km', '47.9 km', '23.2 km', '20.9 km', '3.1 km', '47.9 km', None, '5.3 km']",,,,,
+"['16.7 km', '5.3 km', 0, '46.5 km', '21.8 km', '19.2 km', '2.8 km', '46.5 km', None, '1 m']",,,,,
+"['53.9 km', '48.0 km', '48.2 km', 0, '32.8 km', '37.2 km', '45.8 km', '1 m', None, '48.2 km']",,,,,
+"['29.2 km', '23.2 km', '23.5 km', '32.8 km', 0, '18.2 km', '21.0 km', '32.8 km', None, '23.5 km']",,,,,
+"['10.3 km', '21.0 km', '19.4 km', '37.2 km', '18.2 km', 0, '18.7 km', '37.2 km', None, '19.4 km']",,,,,
+"['14.3 km', '3.1 km', '2.8 km', '45.8 km', '21.0 km', '18.5 km', 0, '45.8 km', None, '2.8 km']",,,,,
+"['53.9 km', '48.0 km', '48.2 km', '1 m', '32.8 km', '37.2 km', '45.8 km', 0, None, '48.2 km']",,,,,
+"[None, None, None, None, None, None, None, None, 0, None]",,,,,
+"['16.7 km', '5.3 km', '1 m', '46.5 km', '21.8 km', '19.2 km', '2.8 km', '46.5 km', None, 0]",,,,,
