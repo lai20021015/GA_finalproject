@@ -6,10 +6,10 @@ import time
 
 gmaps = googlemaps.Client(key='AIzaSyA65CeniB1QhUdJEUJtJ9IJl4mojffBw5w')
 
-geocode_result = gmaps.geocode('媽祖廟, 台中市豐原區')[0]
+geocode_result = gmaps.geocode('橫濱市, Japan')[0]
 location = geocode_result['geometry']['location']
 # Define the center point and radius for the search
-radius = 10000  # meter
+radius = 300000  # meter
 
 # Query tourist attractions within the specified radius
 places_result = gmaps.places_nearby(location=location, keyword='tourist', radius=radius)
@@ -25,7 +25,7 @@ while 'next_page_token' in places_result:
 results.sort(key=lambda x: x.get('rating', 0), reverse=True)
 
 # Filter out attractions with a rating count less than 300
-results_filtered = [place for place in results if place.get('user_ratings_total', 0) >= 100]
+results_filtered = [place for place in results if place.get('user_ratings_total', 0) >= 200]
 
 # Write attractions to CSV
 with open('Pintung_Restaurant.csv', 'w', newline='', encoding='utf-8-sig') as csvfile:
