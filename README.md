@@ -3,6 +3,8 @@
 ## 專案簡介
 
 本專案運用基因演算法(GA)來最佳化台灣機車環島旅遊路線。我們的目標是在考慮景點評分、行駛距離等因素的情況下，為旅行者提供一個平衡且高效的環島路線。
+試圖最小化距離並最大化旅遊景點評分數。
+Formula : score = distance * (-0.1) + rating
 
 ## 功能特點
 
@@ -16,25 +18,9 @@
 
 - Python: 主要編程語言
 - Google Maps API: 地理數據獲取
-- 基因演算法庫 (例如: DEAP)
+- 基因演算法:TSP旅行家問題解決方法
 - 數據處理: Pandas, NumPy
-- 數據視覺化: Matplotlib, Folium
-
-## 安裝和使用
-
-1. 克隆儲存庫:
-   ```
-   git clone https://github.com/your-username/ga-motorcycle-tour.git
-   ```
-2. 安裝依賴:
-   ```
-   pip install -r requirements.txt
-   ```
-3. 設置Google Maps API金鑰 (在 `config.py` 文件中)
-4. 運行主程序:
-   ```
-   python main.py
-   ```
+- 數據視覺化: Matplotlib
 
 ## 專案結構
 
@@ -55,7 +41,9 @@ ga-motorcycle-tour/
 
 ## 結果展示
 
-[在這裡添加一些生成路線的截圖或動態地圖]
+![image](https://github.com/user-attachments/assets/945205e9-c4dc-433d-81f7-1a050611092b)
+![image](https://github.com/user-attachments/assets/471d6558-e1a1-4828-8513-9a2cda945a65)
+
 
 ## 未來改進
 
@@ -63,19 +51,3 @@ ga-motorcycle-tour/
 - 開發用戶友好的前端界面
 - 加入更多自定義選項，如預算限制、時間偏好等
 - 擴展到其他旅遊方式，如自駕車、公共交通等
-
-## 貢獻
-
-歡迎貢獻！請閱讀 `CONTRIBUTING.md` 了解如何開始。
-
-## 許可證
-
-本專案採用 MIT 許可證 - 查看 [LICENSE.md](LICENSE.md) 文件了解詳情。
-
-## 聯繫我們
-
-如有任何問題或建議，請開啟一個issue或直接聯繫項目維護者。
-
----
-
-**注意**: 本專案僅供學習和研究使用。在進行實際的機車環島旅行時，請務必考慮安全因素，並遵守交通規則。
