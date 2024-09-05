@@ -1,4 +1,4 @@
-:motorcycle:# 台灣機車環島路線規劃 (使用基因演算法)
+# 台灣機車環島路線規劃 (使用基因演算法) :motorcycle:
 
 ## 專案簡介
 
@@ -15,7 +15,7 @@ Formula : score = distance * (-0.1) + rating
 - 生成詳細的行程規劃，包括每日路線和推薦景點
 - 與現有熱門路線進行比較分析
 
-:dna:## 技術stack
+## 技術stack :dna:
 
 - Python: 主要編程語言
 - Google Maps API: 地理數據獲取
@@ -40,7 +40,7 @@ ga-motorcycle-tour/
 └── README.md             # 本文件
 ```
 
-:bar_chart:## 結果展示
+## 結果展示 :bar_chart:
 
 ![image](https://github.com/user-attachments/assets/945205e9-c4dc-433d-81f7-1a050611092b)
 ![image](https://github.com/user-attachments/assets/471d6558-e1a1-4828-8513-9a2cda945a65)
